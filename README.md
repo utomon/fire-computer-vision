@@ -44,20 +44,7 @@ The project follows these key steps:
 - The final model, incorporating **Global Average Pooling**, achieved superior results, with an accuracy of 93% and strong performance across other evaluation metrics.
 - This model is well-suited for integration into systems requiring reliable fire detection from images, enhancing safety and response times.
 
-## Usage
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/fire-detection-cv.git
-    ```
-2. Navigate to the repository directory:
-    ```bash
-    cd fire-detection-cv
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 4. Run the Jupyter Notebook to train and evaluate the model:
     ```bash
     jupyter notebook
